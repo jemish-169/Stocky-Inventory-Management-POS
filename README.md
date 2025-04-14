@@ -55,11 +55,6 @@
 
 The app is designed using clean and modular architecture principles:
 
-- **MVVM Architecture**  
-  - **Model**: Handles the data layer with Supabase.  
-  - **ViewModel**: Manages UI-related data and business logic.  
-  - **View (Compose)**: Renders the UI based on observable state.
-
 - **Modules**  
   - `auth`: Onboarding and authentication.  
   - `inventory`: Product listing and management.  
