@@ -1,8 +1,5 @@
 # Stocky - Inventory Management POS
 
-## Overview  
-**Stocky - Inventory Management POS** is a modern, scalable, and real-time inventory and sales tracking application built with native Android tools. It helps to manage inventory, generate PDF invoices, track transactions, and gain insights through analytics. The app supports smooth multi-user collaboration with real-time data consistency, thanks to Supabase's powerful backend services.
-
 ## Features
 
 - **User Onboarding & Authentication**  
