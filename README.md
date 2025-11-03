@@ -48,18 +48,6 @@
 - **Material Design** – Intuitive and consistent UI using Material components.  
 - **Animations** – Smooth and meaningful transitions throughout the app.  
 
-## Code Structure
-
-The app is designed using clean and modular architecture principles:
-
-- **Modules**  
-  - `auth`: Onboarding and authentication.  
-  - `inventory`: Product listing and management.  
-  - `sales`: Billing, customer handling, PDF generation.  
-  - `account`: Analytics and insights.  
-  - `transactions`: Full transaction history.
-  - `settings`: To select in app language and app theme. 
-
 ## Screenshots  
 
 <table>
