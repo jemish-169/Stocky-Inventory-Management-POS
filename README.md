@@ -61,14 +61,21 @@ The app is designed using clean and modular architecture principles:
   - `settings`: To select in app language and app theme. 
 
 ## Screenshots  
-| Authentication | Home screen | Sales item-listing |
-|-------------|----------------|--------------------------|
-| ![1](https://github.com/user-attachments/assets/ea7da6d5-cb1c-4cb8-bbc7-b988f1aa5fb1) | ![2](https://github.com/user-attachments/assets/2d9be1b2-5296-4cf3-a6de-1c8143b26b65) | ![3](https://github.com/user-attachments/assets/c5f359fd-a712-4aae-9b29-14c3460556e1) |
 
-| Gen. Customised bill | Generated Invoice | Add item Screen |
-|-------------|----------------|--------------------------|
-| ![4](https://github.com/user-attachments/assets/d77bfc5d-a7a7-4e25-a07c-c8927b6efd3a) | ![5](https://github.com/user-attachments/assets/8f5e3ea5-fe2c-41b9-8da5-9ecc1b9b8ff7) | ![6](https://github.com/user-attachments/assets/3ece6258-e2fa-4a19-b2c3-6de6707bc20b) |
-
-| Monthly track | Transactions | App Settings |
-|-------------|----------------|--------------------------|
-|![7](https://github.com/user-attachments/assets/65654ac1-ec7e-4fbf-8810-bf2275fdb76b) | ![8](https://github.com/user-attachments/assets/64b81205-c273-431b-993f-1f709e2b3164) | ![9](https://github.com/user-attachments/assets/e52c5ff1-6304-4875-af22-1de4e1337bd4) |
+<table>
+  <tr>
+    <td align="center"><b>Authentication</b><br><img src="https://github.com/user-attachments/assets/ea7da6d5-cb1c-4cb8-bbc7-b988f1aa5fb1" width="250"/></td>
+    <td align="center"><b>Home Screen</b><br><img src="https://github.com/user-attachments/assets/2d9be1b2-5296-4cf3-a6de-1c8143b26b65" width="250"/></td>
+    <td align="center"><b>Sales Item Listing</b><br><img src="https://github.com/user-attachments/assets/c5f359fd-a712-4aae-9b29-14c3460556e1" width="250"/></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Gen. Customised Bill</b><br><img src="https://github.com/user-attachments/assets/d77bfc5d-a7a7-4e25-a07c-c8927b6efd3a" width="250"/></td>
+    <td align="center"><b>Generated Invoice</b><br><img src="https://github.com/user-attachments/assets/8f5e3ea5-fe2c-41b9-8da5-9ecc1b9b8ff7" width="250"/></td>
+    <td align="center"><b>Add Item Screen</b><br><img src="https://github.com/user-attachments/assets/3ece6258-e2fa-4a19-b2c3-6de6707bc20b" width="250"/></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Monthly Track</b><br><img src="https://github.com/user-attachments/assets/65654ac1-ec7e-4fbf-8810-bf2275fdb76b" width="250"/></td>
+    <td align="center"><b>Transactions</b><br><img src="https://github.com/user-attachments/assets/64b81205-c273-431b-993f-1f709e2b3164" width="250"/></td>
+    <td align="center"><b>App Settings</b><br><img src="https://github.com/user-attachments/assets/e52c5ff1-6304-4875-af22-1de4e1337bd4" width="250"/></td>
+  </tr>
+</table>
